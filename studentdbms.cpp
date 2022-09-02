@@ -1,4 +1,4 @@
-loc)  4.68 KB
+
 #include <iostream>
 #include <cstdio>
 #include <cstring>
@@ -148,7 +148,7 @@ int main()
     case '5':
             fclose(fp);
             cout << "\n\n";
-            cout << "\t\t   
+            cout << "\t\t";  
             cout << "\n\n";
             exit(0);
         }
